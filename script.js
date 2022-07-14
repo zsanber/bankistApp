@@ -1,4 +1,7 @@
-//from UDEMY :  Jonas Schmedtmann: The Complete JavaScript Course 2022: From Zero to Expert!
+//from UDEMY :  Jonas Schmedtmann: The Complete JavaScript Course 2022: From Zero to Expert
+
+//PRACTICE
+
 // BANKIST APP
 
 'use strict';
